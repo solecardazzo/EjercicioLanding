@@ -1,0 +1,22 @@
+.titulo-form{
+    font-family: 'Ballet', cursive;
+
+}
+body{
+    background-image: url('../img/imagen-fondo.jpeg');
+}
+section{
+    background-color: rgba(209, 208,208,0.712);
+    padding: 1%;
+    box-shadow: 5px 4px 5px black;
+    border-radius: 5px;
+
+}
+.bgcolorcss{
+    background-color: rgba(209, 208,208,0.712);
+    box-shadow: 5px 4px 5px black;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
